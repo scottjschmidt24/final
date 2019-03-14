@@ -3,7 +3,7 @@ This map has three main interactive layers: head management areas, population of
 
 The majority of data came in the form of Json files from the BLM.  I could tell the data was vector data because the map has polygons drawn on it. I could not find a creation date but the BLM keeps them updated with current data.
 
-I found the design of this web map to be clear and easy to navigate. The layers were easy to find and apply to the basemap. You could also hide different menus to maximize the map screen.
+I found the design of this web map to be clear and easy to navigate. The layers were easy to find and apply to the basemap. You could also hide different menus to maximize the map screen. This maps systemic achitecture consisted of a basic html file containing a head and body which made navigating the code simple.
 
 The basemap used is a simple terrain map which contains roads, cities, state/country borders, lakes, forest etc. The main theme layer was the heard management areas which are found throughout Nevada and surrounding states. This layer also acted as an interactive feature because it could be turned on/off. Other interactive features for this map included the ability to drop a point via right clicking on the map, clicking on the heard area gives you information about the heard.
 
