@@ -7,7 +7,7 @@ I found the design of this web map to be clear and easy to navigate. The layers 
 
 The basemap used is a simple terrain map which contains roads, cities, state/country borders, lakes, forest etc. The main theme layer was the heard management areas which are found throughout Nevada and surrounding states. This layer also acted as an interactive feature because it could be turned on/off. Other interactive features for this map included the ability to drop a point via right clicking on the map, clicking on the heard area gives you information about the heard.
 
-This map incorporates a scale bar which adjusts with the zoom function. There is also a latitude and longitude function which can be turned on/off. Responsive design is available for this map but it was significantly easier to navigate on the computer.
+This map incorporates a scale bar which adjusts with the zoom function. There is also a latitude and longitude function which can be turned on/off. Responsive design is available for this map but it was significantly easier to navigate on the computer. There is also a function that helps accomodate the map to disabled persons. 
 
 I found this map to be an effective form of displaying the given information. The website/ page was easy to navigate and the map was displayed front and center. The ability to toggle layers was nice to clean the map up. I would improve this map through adding more layers like wildlife refuges and wilderness boundries to help show untouched terrain.
 
